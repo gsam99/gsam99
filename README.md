@@ -72,10 +72,10 @@ Currently a **Graduate Research Assistant at RIT**, working on LLM-based tooling
 
 ### 🚀 Featured Projects
 
-**[LLM Cost Autopilot](#)**
+**https://rag-production-xcmd.onrender.com**
 Production REST API for LLM services — cut average latency from 1,089ms to 10ms with Redis caching, added LangGraph-based multi-step orchestration with conditional routing, and built in security guardrails (PII masking, prompt injection detection).
 
-**[Midas Transaction System](#)**
+**https://github.com/gsam99/midas-core-transaction-system**
 Spring Boot microservice with a Kafka-based consumer pipeline processing transaction streams across three integrated systems, backed by an H2/JPA data layer and 10+ REST endpoints.
 
 **LLMS Analysis (Research @ RIT)**
