@@ -19,6 +19,8 @@
 
 ---
 
+<div align="center">
+
 ### 👩‍💻 About Me
 
 I'm a backend-focused software engineer who enjoys designing systems, building APIs, and infrastructure that scales. I'm especially interested in integrating LLMs and agentic AI into backend systems to make them smarter and more autonomous.
@@ -27,11 +29,15 @@ Currently a **Graduate Research Assistant at RIT**, working on LLM-based tooling
 
 🎯 **Currently open to new opportunities** — feel free to reach out!
 
+</div>
+
 ---
+
+<div align="center">
 
 ### 🔧 Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -58,7 +64,11 @@ Currently a **Graduate Research Assistant at RIT**, working on LLM-based tooling
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
+</div>
+
 ---
+
+<div align="center">
 
 ### 🚀 Featured Projects
 
@@ -73,14 +83,20 @@ Full-stack survey platform (React/Python/Docker) onboarding 25+ users with sub-2
 
 > Tip: replace the `#` links above with the actual repo URLs once pinned.
 
+</div>
+
 ---
+
+<div align="center">
 
 ### 📊 GitHub Stats
 
-<p align="left">
+<p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=gsam99&show_icons=true&theme=default&hide_border=true" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=gsam99&hide_border=true" />
 </p>
+
+</div>
 
 ---
 
@@ -92,10 +108,14 @@ Full-stack survey platform (React/Python/Docker) onboarding 25+ users with sub-2
 
 ---
 
+<div align="center">
+
 ### 📫 Let's Connect
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/samhitagadamsetty">LinkedIn</a> ·
   <a href="mailto:sg7652@g.rit.edu">Email</a> ·
   <a href="https://github.com/gsam99">GitHub</a>
 </p>
+
+</div>
